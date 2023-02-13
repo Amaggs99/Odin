@@ -1,0 +1,18 @@
+HTML and CSS Notes:
+
+    HTML stands for Hypertext Markup Language.
+    CSS stands for Cascading Style Sheets.
+
+Using HTML and CSS for Webpage Text:
+
+    HTML is used for putting paragraphs of text on a webpage.
+
+Using HTML and CSS for Button Formatting:
+
+    CSS is used for changing the font and background color of a button.
+
+Difference between HTML, CSS and JavaScript:
+
+    HTML is used for creating the structure and content of a webpage.
+    CSS is used for styling the visual presentation of a webpage.
+    JavaScript is used for adding interactivity and dynamic behavior to a webpage.
