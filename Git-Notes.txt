@@ -1,0 +1,50 @@
+GitHub Repository Creation Notes:
+
+    Go to GitHub and log in.
+    Click on the "New repository" button on the main dashboard.
+    Fill in the repository name, description, and visibility settings.
+    Click the "Create repository" button.
+
+Copying a GitHub Repository Notes:
+
+    Go to the repository on GitHub.
+    Click the "Clone or download" button.
+    Copy the URL for the repository.
+    Open the terminal or command prompt.
+    Change the current working directory to the location where you want the cloned directory to be made.
+    Run the "git clone" command followed by the URL you copied in step 3.
+
+Git Remote Connection Name Notes:
+
+    The default name for a remote connection in Git is "origin".
+
+Git Push Origin Main Notes:
+
+    "Origin" refers to the remote repository (on GitHub).
+    "Main" refers to the default branch name (usually "master" in older repositories, now "main").
+
+Git Two-Stage System Notes:
+
+    Git uses a two-stage system to save files:
+    a. Staging area: files that are added to the staging area are ready to be committed.
+    b. Repository: files that are committed to the repository are saved and tracked by Git.
+
+Checking Repository Status Notes:
+
+    Run the "git status" command in the terminal or command prompt.
+
+Adding Files to Staging Area Notes:
+
+    Run the "git add" command followed by the file name.
+
+Committing Staged Files Notes:
+
+    Run the "git commit -m" command followed by a descriptive message in quotes.
+
+Pushing Changes to GitHub Notes:
+
+    Run the "git push origin main" command.
+
+Viewing Commit History Notes:
+
+    Run the "git log" command in the terminal or command prompt.
