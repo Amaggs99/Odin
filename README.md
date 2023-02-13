@@ -1,2 +1,2 @@
 # Odin
- Notes
+ Notes.
